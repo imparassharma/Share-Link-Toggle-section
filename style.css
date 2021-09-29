@@ -209,3 +209,12 @@ body{
         display: block;
     }
 }
+
+@media screen and (width:1440px) {
+
+    .arrow-down{
+        top: 23rem;
+        right: 25rem;
+    }
+    
+}
